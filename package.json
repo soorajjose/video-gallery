@@ -20,7 +20,7 @@
     "eject": "react-scripts-ts eject",
     "watch": "npm-watch",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build" 
   },
   "watch": {
     "build": "src/"
