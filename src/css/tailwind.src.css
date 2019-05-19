@@ -1,0 +1,7 @@
+@tailwind preflight;
+@tailwind components;
+@tailwind utilities;
+
+.bg-header-image {
+    background-image: url('../assets/nav_bar.png');
+  }
